@@ -3,7 +3,7 @@ describe('Bubble Sort', function(){
     expect(bubbleSort([]).toEqual([]));
   });
 });
-
+//Sort Types
 // Bubble Sort
 // Loop over elements
 // swap anything that's out of order
